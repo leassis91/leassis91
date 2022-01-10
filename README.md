@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on real life projects which require lots of machine learning resources!
 - 📫 How to reach me:
     * email: leassis.destefani@gmail.com
+    * [LinkedIn] (https://www.linkedin.com/in/leandrodestefani/)
     * kaggle.com/leandrodestefani
     * twitter: @leassis91
     * discord: lepitt#3598
