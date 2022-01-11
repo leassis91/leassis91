@@ -6,7 +6,7 @@ My name is Leandro Assis, a brazilian engineer in love with all sorts of AI appl
 - 💞️ I’m looking to collaborate on real life projects which require lots of machine learning resources!
 - 📫 How to reach me:
     * E-mail: leassis.destefani@gmail.com
-    * [LinkedIn](https://www.linkedin.com/in/leandrodestefani/)
+    * [![img](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/leandrodestefani/)
     * [Kaggle](https://www.kaggle.com/leandrodestefani)
     * [![img](https://help.twitter.com/content/dam/help-twitter/brand/logo.png)](https://twitter.com/leassis91)
     
