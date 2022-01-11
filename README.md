@@ -9,7 +9,6 @@ My name is Leandro Assis, a brazilian engineer in love with all sorts of AI appl
     * [LinkedIn](https://www.linkedin.com/in/leandrodestefani/)
     * [Kaggle](https://www.kaggle.com/leandrodestefani)
     * Twitter: @leassis91
-    * Discord: lepitt#3598
     
 <!---
 leassis91/leassis91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
