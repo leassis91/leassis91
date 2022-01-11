@@ -8,7 +8,7 @@ My name is Leandro Assis, a brazilian engineer in love with all sorts of AI appl
     * E-mail: leassis.destefani@gmail.com
     * [LinkedIn](https://www.linkedin.com/in/leandrodestefani/)
     * [Kaggle](https://www.kaggle.com/leandrodestefani)
-    * [Twitter] (https://www.twitter.com/leassis91)
+    * [Twitter](https://twitter.com/leassis91)
     
 <!---
 leassis91/leassis91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
