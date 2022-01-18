@@ -1,7 +1,7 @@
 <h2 align="left"> 👋 Hi there!</h2>
 
 My name is Leandro Assis, a brazilian engineer in love with all sorts of AI applications and Machine Learning.
-- 👀 I’m interested in becoming a Data Scientist, and I'm currently in the process of career migration to Data Science.
+- 👀 I’m interested in becoming a Data Scientist, and I'm in the process of career migration to Data Science.
 - 🌱 I’m currently learning Python, ML, Statistics and SQL. For now, I'm focused on doing real life projects.
 - 💞️ I’m looking to collaborate on real life projects which require lots of machine learning resources!
 - 📫 How to reach me: **leassis.destefani@gmail.com**
