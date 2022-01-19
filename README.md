@@ -9,7 +9,7 @@ My name is Leandro Assis, a brazilian engineer in love with all sorts of AI appl
 <h3 align="left"> 🔗 Contact me at: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/leandrodestefani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandroassis" height="30" width="40" /></a>
-<a href="https://instagram.com/leassis91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leandroassis" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/leassis91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leandroassis" height="30" width="40" /></a> -->
 <a href="https://www.kaggle.com/leandrodestefani" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="leandroassis" height="30" width="40" /></a>
 <a href="https://twitter.com/leassis91" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="https://youtube.com/programacaodinamica" height="30" width="40" /></a>
 </p>
