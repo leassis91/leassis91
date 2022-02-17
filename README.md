@@ -1,6 +1,6 @@
 <h2 align="left"> 👋 Hi there!</h2>
 
-My name is Leandro Assis, a brazilian engineer in love with all sorts of AI applications and Machine Learning.
+My name is Leandro Destefani, a brazilian engineer in love with all sorts of AI applications and Machine Learning.
 - 👀 I’m interested in becoming a Data Scientist, and I'm in the process of career migration to Data Science.
 - 🌱 I’m currently learning Python, ML, Statistics and SQL. Focused on doing data science projects to solve real companies problems.
 - 💞️ I’m looking to collaborate on real life projects which require lots of machine learning resources!
