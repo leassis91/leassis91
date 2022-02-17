@@ -14,12 +14,9 @@ My name is Leandro Destefani, a brazilian engineer in love with all sorts of AI 
 <a href="https://twitter.com/leassis91" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="https://youtube.com/programacaodinamica" height="30" width="40" /></a>
 </p>
 
-<!--- <p align="left"> <a href="https://twitter.com/kizzy_terra" target="blank"><img src="https://img.shields.io/twitter/follow/kizzy_terra?logo=twitter&style=for-the-badge" alt="kizzy_terra" /></a> </p>
+<!--- 
 
 <a href="https://instagram.com/leassis91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leandroassis" height="30" width="40" /></a>
-
-
-
 
     - [<img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="30" height="30"/>](mailto:leassis.destefani@gmail.com)
     [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/>](https://www.linkedin.com/in/leandrodestefani/)
