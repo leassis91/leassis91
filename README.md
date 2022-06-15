@@ -16,7 +16,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 </p>
 
 <Br>
-<h2 align="left">🎨 Some of my projects: </h1>
+<h2 align="left">🎨 Data Science Projects</h1>
 <Br>
 
 <a href="https://github.com/leassis91/hackday_ds/blob/master/bank-account-prediction-xgbclassifier-pipeline.ipynb">Hackday Competition - Classification Project</a>
@@ -51,7 +51,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 <Br>
 
 Feel free to get in contact and ask anything! 
-### Thank You! 😄 
+### Thank You! 😇 
 
     
 <!-- [![Leandro's Github Stats](https://github-readme-stats.vercel.app/api?username=leassis91)](https://github.com/anuraghazra/github-readme-stats) -->
