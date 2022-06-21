@@ -21,7 +21,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 
 <a href="https://github.com/leassis91/hackday_ds/">Hackday Competition - Classification Project</a>
 
-**Project Description**: Amazing experience, my first live competition. The goal was to create a machine learning model to predict which individuals will and will not use a bank account. The models and solutions developed should provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda. The dataset is available in [Kaggle](https://www.kaggle.com/competitions/inclusao-financeira-na-africa/data). My team managed to end up in 3rd place.
+**Project Description**: Amazing experience, my first live competition. The goal was to develop a machine learning model in order to predict whether users would have a bank account. The models and solutions designed should provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda. The dataset is available in [Kaggle](https://www.kaggle.com/competitions/inclusao-financeira-na-africa/data). My team managed to end up in 3rd place.
     
 ***    
     
