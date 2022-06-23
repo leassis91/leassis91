@@ -2,9 +2,9 @@
 
 My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts of AI applications and Machine Learning.
 - 🎓 Bachelor in Chemical Engineering at PUC-Rio, MBA in Finance at IBMEC.
-- 👀 I’m interested in becoming a Data Scientist, and I'm in the process of career migration to Data Science fields.
-- 🌱 I’m currently learning Machine Learning algorithms, Statistics and SQL.
-- 💞️ I’m looking forward to collaborate on real life projects and solve real companies problems.
+- 👀 I’m an aspiring Data Scientist who's always ready to learn and share my knowledge.
+- 🌱 I’m currently learning Machine Learning algorithms and Statistics. Next step: Deep Learning, Computer Vision.
+- 💞️ I’m looking forward to collaborate on real life projects. Love working with data and creating models from them.
 - 📫 How to reach me: **leassis.destefani@gmail.com**
 
 <h3 align="center"> 🔗 Contact me at: </h3>
