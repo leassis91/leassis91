@@ -19,6 +19,12 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 <h2 align="left">🎨 Data Science Projects</h1>
 <Br>
 
+<a href="https://github.com/leassis91/rossmann_store/">Rossmann Store Sale's Prediction - Regression Project</a>
+
+**Project Description**: Since the recent results's accuracy are quite noisy, our work here is to give an assertive prediction of the sales of each store, up to 6 weeks in advance. This task has been assined to the whole team of Data Scientists, who are given a historical database in order to generate the desired forecasting. To catch up all details of the request, the team had a business meeting with company's CFO, who explained the need to establish a budget to carry out a general repair in each store.
+    
+***     
+    
 <a href="https://github.com/leassis91/hackday_ds/">Hackday Competition - Classification Project</a>
 
 **Project Description**: Amazing experience, my first live competition. The goal was to develop a machine learning model in order to predict whether users would have a bank account. The models and solutions designed should provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda. The dataset is available in [Kaggle](https://www.kaggle.com/competitions/inclusao-financeira-na-africa/data). My team managed to end up in 3rd place.
