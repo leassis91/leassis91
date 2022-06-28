@@ -45,7 +45,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
       
 <a href="https://github.com/leassis91/Wine-Prediction-by-ML/blob/main/wine-classification-with-ml.ipynb">Wine Prediction - Classification Problem</a>
     
-**Project Description**: My first Machine Learning project. Used a model that learned to classify wine in red or white based on its caracharacteristics from the dataset. 
+**Project Description**: My first Machine Learning project. Used a model that learned to classify wine in red or white based on its caracteristics from the dataset. 
 
 <hr>
 <Br>
