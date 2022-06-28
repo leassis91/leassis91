@@ -42,13 +42,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 **Project Description**: We work for the road safety team within the department of transport, and they are looking into how they can reduce the number of major incidents. The safety team classes major incidents as fatal accidents involving 3+ casualties. They are trying to learn more about the characteristics of these major incidents so they can brainstorm interventions that could lower the number of deaths. They have asked for our assistance with answering a number of questions.
     
 ***
-    
-<a href="https://github.com/leassis91/Portfolio_Projects/blob/main/Regression_Projects/HousePricePredictions/house-price-predictions-with-regression.ipynb">House Price Predictions - Advanced Regression Techniques</a>
-  
-**Project Description**: The aim of this project is to analyze a dataset in order to develop a machine learning model and predict house's sale price. The dataset is available in a "Getting Started Competition" in Kaggle.
-
-***
-    
+      
 <a href="https://github.com/leassis91/Wine-Prediction-by-ML/blob/main/wine-classification-with-ml.ipynb">Wine Prediction - Classification Problem</a>
     
 **Project Description**: Machine learning model that learned to classify wine in red or white based on its caracharacteristics from the dataset. 
