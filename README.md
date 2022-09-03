@@ -1,10 +1,10 @@
 <h1 align="center"> 👋 Hi there!</h2>
 
 My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts of AI applications and Machine Learning.
-- 🎓 Bachelor in Chemical Engineering at PUC-Rio, MBA in Finance at IBMEC.
-- 👀 I’m an aspiring Data Scientist who's always ready to learn and share my knowledge.
-- 🌱 I’m currently learning Machine Learning algorithms and Statistics. Next step: Deep Learning, Computer Vision.
-- 💞️ I’m looking forward to collaborate on real life projects. Love working with data and creating models from them.
+- 🎓 BSc in Chemical Engineering at PUC-Rio, MBA (on going) in BI Master - Intelligent Decision Support Systems in Business, at PUC-Rio, Brazil.
+- 👀 I have 1+ year of experience within personal projects in Data Field and have won some prizes in Hackathon competitions. 
+- 🌱 I'm currently involved in a Churn Prediction personal project and a gene expression prediction, [Multimodal Single-Cell Integration](https://www.kaggle.com/competitions/open-problems-multimodal/overview) competition.
+- 👨🏽‍💻 I’m available for a job! Let's have a virtual warm or ice coffee? I let you choose!
 - 📫 How to reach me: **leassis.destefani@gmail.com**
 
 <h3 align="center"> 🔗 Contact me at: </h3>
