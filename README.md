@@ -17,7 +17,6 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 <a href="https://medium.com/@leandrodestefani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="leandroassis" height="30" width="40" /></a>
 </p>
 
-
 <Br>
 <h2 align="left">🎨 Data Science Projects</h1>
 <Br>
@@ -49,9 +48,20 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 <a href="https://github.com/leassis91/Wine-Prediction-by-ML/blob/main/wine-classification-with-ml.ipynb">Wine Prediction - Classification Problem</a>
     
 **Project Description**: My first Machine Learning project. Used a model that learned to classify wine in red or white based on its caracteristics from the dataset. 
-
 <hr>
-<Br>
+<br>
+
+<div id="header" align="center">
+  <h2 align="left">
+  <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30"/>
+    Kaggle Stats
+  </h2>
+  
+  ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leandrodestefani/competition)
+  ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leandrodestefani/dataset)
+  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leandrodestefani/notebook)
+  ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leandrodestefani/discussion)
+</div>
   
   ## 📊 Github Stats
 
