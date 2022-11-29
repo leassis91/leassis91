@@ -35,7 +35,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
     
 <a href="https://github.com/leassis91/Portfolio_Projects/tree/main/Insights_Projects/HouseRocketEDA">House Rocket Company - Insights (EDA) Project</a>
     
-**Project Description**: House Rocket's business model consists of purchasing and reselling properties through a digital platform. The data scientist is responsible for developing an online dashboard to help the CEO company overview properties available on House Rocket's portfolio and find the best business opportunities.
+**Project Description**: House Rocket's business model consists of purchasing and reselling properties through a digital platform. The data scientist is responsible for developing an [online dashboard](https://leassis91-houserocketapp-dashboard-bxzs7g.streamlit.app/) to help the CEO company overview properties available on House Rocket's portfolio and find the best business opportunities.
     
 ***
     
