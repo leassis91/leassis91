@@ -24,7 +24,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 
 <a href="https://github.com/leassis91/health-insurance/">Health Insurance Cross-Sell - Ranking Project</a>
 
-**Project Description**: Insurance All is a company that provides **health insurance** to its customers and their product team is analyzing the possibility of offering a new product: vehicle insurance. Our work here is to create an ranking algorithm for new customers, based on interest survey data carried out with old customers.
+**Project Description**: Insurance All is a company that provides health insurance to its customers and their product team is analyzing the possibility of offering a new product: vehicle insurance. Our work here is to create an ranking algorithm for new customers, based on interest survey data carried out with old customers. The project was deployed via [Google Sheets](https://docs.google.com/spreadsheets/d/10Jjy_Iil6XGr7A3X0B3_fJEuFlBTCxRktnQhQkJh9Kg/edit#gid=862044370) with Apps Script.
     
 ***      
   
