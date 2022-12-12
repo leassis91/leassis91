@@ -23,7 +23,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 
 <a href="https://github.com/leassis91/previsao_assinatura/">Gamers Club Subscription Forecast</a>
 
-**Project Description**: The purpose of this project is to simulate an entire pipeline of a real business model, from data ingestion by a database, to the deployment of a model in the cloud with the delivery of a result queried by a user. The final model simulates the propensity of a customer/player of the Gamers Club platform to become a subscriber for the next 30 days.
+**Project Description**: The purpose of this project is to simulate an entire pipeline of a real business model, from data ingestion from a database, to the deployment of a model in the cloud returning a result queried by a user. The final model simulates the propensity of a customer/player of the Gamers Club platform to become a subscriber for the next 30 days.
     
 *** 
     
