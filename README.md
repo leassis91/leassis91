@@ -4,8 +4,8 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 - 🎓 BSc in Chemical Engineering, MBA (on going) in BI Master - Intelligent Decision Support Systems in Business, at PUC-Rio, Brazil.
 - 👀 I have 1+ year of experience within personal projects in Data Field and have won some prizes in Hackathon competitions. 
 - 🌱 I'm currently involved in a [Client Segmentation Analysis](https://github.com/leassis91/allmart) project and in the [_Deep Learning Specialization_](https://www.coursera.org/specializations/deep-learning) course, offered by **DeepLearning.AI** and taught by Andrew Ng.
-- 👨🏽‍💻 I’m open to work! Let's have a virtual warm or ice coffee? I let you choose!
-- 📫 How to reach me: **leassis.destefani@gmail.com**
+<!-- - 👨🏽‍💻 I’m open to work! Let's have a virtual warm or ice coffee? I let you choose! -->
+<!-- - 📫 How to reach me: **leassis.destefani@gmail.com** -->
 
 <h3 align="center"> 🔗 Contact me at: </h3>
 <p align="center">
