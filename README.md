@@ -64,7 +64,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 <hr>
 <br>
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <h2 align="left">
   <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30"/>
     Kaggle Stats
@@ -74,7 +74,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
   ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leandrodestefani/dataset)
   ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leandrodestefani/notebook)
   ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leandrodestefani/discussion)
-</div>
+</div> -->
   
   ## 📊 Github Stats
 
