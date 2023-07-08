@@ -81,15 +81,15 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 <br/>
 <p align="left">
   <a href="https://github.com/leassis91">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=leassis91&show_icons=true&theme=dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=leassis91&theme=dark&hide_border=true" />
+<!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=leassis91&show_icons=true&theme=dark&hide_border=true" /> -->
+    <img width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=leassis91&theme=dark&hide_border=true" />
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leassis91&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" height="200px"/>
   </a>
 </p>
-<br>
-<p align="center">
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leassis91&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/><br>
-</p>
+<!-- <br> -->
 
 <br>
 
