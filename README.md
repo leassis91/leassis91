@@ -79,7 +79,7 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
   ## 📊 Github Stats
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://github.com/leassis91">
 <!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=leassis91&show_icons=true&theme=dark&hide_border=true" /> -->
     <img width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=leassis91&theme=dark&hide_border=true" />
