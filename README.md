@@ -91,7 +91,6 @@ My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts 
 <br>
 
 Feel free to get in contact and ask anything! 
-### Thank You! 😇 
 
     
 <!-- [![Leandro's Github Stats](https://github-readme-stats.vercel.app/api?username=leassis91)](https://github.com/anuraghazra/github-readme-stats) -->
