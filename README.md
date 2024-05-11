@@ -3,11 +3,11 @@
 My name is Leandro Destefani, an aspiring Data Scientist in love with all sorts of AI applications and Machine Learning.
 - 🎓 BSc in Chemical Engineering, MBA (on going) in BI Master - Intelligent Decision Support Systems in Business, at PUC-Rio, Brazil.
 - 👀 I have 2+ years of experience within personal projects in Data Field and have won some prizes in Hackathon competitions. 
-- 🌱 I'm currently involved in a [Client Segmentation Analysis](https://github.com/leassis91/allmart) project and in the [_Deep Learning Specialization_](https://www.coursera.org/specializations/deep-learning) course, offered by **DeepLearning.AI** and taught by Andrew Ng.
+<!-- - 🌱 I'm currently involved in a [Client Segmentation Analysis](https://github.com/leassis91/allmart) project and in the [_Deep Learning Specialization_](https://www.coursera.org/specializations/deep-learning) course, offered by **DeepLearning.AI** and taught by Andrew Ng. -->
 <!-- - 👨🏽‍💻 I’m open to work! Let's have a virtual warm or ice coffee? I let you choose! -->
 <!-- - 📫 How to reach me: **leassis.destefani@gmail.com** -->
 
-<h3 align="center"> 🔗 Contact me at: </h3>
+<h3 align="center"> 🔗 You can also find me at: </h3>
 <p align="center">
 <!-- <a href="mailto:leassis.destefani@gmail.com" target="_blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="leandroassis" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/leandrodestefani/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandroassis" height="30" width="40" /></a>
