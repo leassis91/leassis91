@@ -4,7 +4,7 @@ I'm Leandro Destefani, a guy who conjures insights from data streams, algorithms
 
 #### Facts about me:
 
-- 💻 Bachelor's in Chemical Engineering at PUC-Rio.
+- 🧑🏽‍🔬 Bachelor's in Chemical Engineering at PUC-Rio.
 - 📈 I'm a Senior Data Governance Analyst at ALLOS.
 - 📫 How to reach me: leassis.destefani@gmail.com
 
