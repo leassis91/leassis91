@@ -19,6 +19,6 @@ I'm Leandro Destefani, a guy who conjures insights from data streams, algorithms
 
 * [🚀 Allmart Segmentation (using Kedro Framework!)](https://github.com/leassis91/allmart)
 * [🎮 Gamers Subscription](https://github.com/leassis91/previsao_assinatura/)
-* [🚗 Insurance Ranking](https://github.com/leassis91/health-insurance/)
+* [🚗 Insurance Ranking](https://github.com/leassis91/health_insurance/)
 * [🏪 Forecasting Store Sales](https://github.com/leassis91/rossmann_store/)
 * [🏠 House Rocket Company](https://github.com/leassis91/Portfolio_Projects/tree/main/Insights_Projects/HouseRocketEDA)
