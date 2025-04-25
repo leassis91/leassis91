@@ -2,6 +2,8 @@
 
 I'm Leandro Destefani, a guy who conjures insights from data streams, algorithms and caffeine. Sometimes predicting the future, mostly just cleaning the data. 
 
+##
+
 #### Facts about me:
 
 - 🧑🏽‍🔬 Bachelor's in Chemical Engineering at PUC-Rio.
@@ -17,11 +19,12 @@ I'm Leandro Destefani, a guy who conjures insights from data streams, algorithms
 
 #### 🎨 Data Science Projects
 
-* [🚀 Allmart Segmentation (using Kedro)](https://github.com/leassis91/allmart)
-* [🎮 Gamers Subscription](https://github.com/leassis91/previsao_assinatura/)
-* [🚗 Insurance Ranking](https://github.com/leassis91/health_insurance/)
-* [🏪 Forecasting Store Sales](https://github.com/leassis91/rossmann_store/)
-* [🏠 House Rocket Company](https://github.com/leassis91/Portfolio_Projects/tree/main/Insights_Projects/HouseRocketEDA)
+* [🚀 Client Segmentation (using Kedro)](https://github.com/leassis91/allmart)
+* [🎮 Subscription Forecast](https://github.com/leassis91/previsao_assinatura/)
+* [🚗 Car Insurance Learning to Rank](https://github.com/leassis91/health_insurance/)
+* [🏪 Store Sales Forecast](https://github.com/leassis91/rossmann_store/)
+* [🏠 House Prices Dashboard](https://github.com/leassis91/Portfolio_Projects/tree/main/Insights_Projects/HouseRocketEDA)
 
+##
 
 Buy me a [coffee](https://buymeacoffee.com/leodest) ☕ :)
